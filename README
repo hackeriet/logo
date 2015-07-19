@@ -6,23 +6,28 @@ This is most/all logo material for Hackeriet.
 If you just want "the best, most current one",
 use the following:
 
+ hackeriet_logo.svg       : resizable logo, current edition, black enclosing circle
+ hackeriet_logo_white.svg : resizable logo, current edition, white enclosing circle
+ hackeriet.jpg            : medium-size resize
+ hackeriet_icon.png 			: medium-small icon size logo
 
- hackeriet.svg      : resizable logo, current edition
- hackeriet.jpg      : medium-size resize
- hackeriet_icon.png : medium-small icon size logo
+ favicon.ico              : 16x16 gif
 
- favicon.ico        : 16x16 gif
+ hqr1.png                 : Hackeriet QR code by pippin, small
+ hqr2.png                 : Hackeriet QR code by pippin, large
 
- hqr1.png           : Hackeriet QR code by pippin, small
- hqr2.png           : Hackeriet QR code by pippin, large
+ zenhackeriet.png         : handy bitmap render, 506x506 px
+ zha.png                  : 100 x 100 PNG
+ zha.jpg                  : 100 x 100 JPG
+ zhlb.png 								: 506 x 506 PNG
 
- tshirt/            : varius files useful for making t-shirts
+ tshirt/                  : varius files useful for making t-shirts
 
- contrib/           : other proposed hackeriet logos
+ contrib/                 : other proposed hackeriet logos
 
- contrib/hax_fos_*  : fosphor's submissions, which we occasionally use
+ contrib/hax_fos_*        : fosphor's submissions, which we occasionally use
 
- attic/             : various iterations before we arrived at the real deal
+ attic/                   : various iterations before we arrived at the real deal
 
 
 

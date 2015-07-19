@@ -13,14 +13,16 @@
    height="100"
    id="svg53383"
    sodipodi:version="0.32"
-   inkscape:version="0.48.1 r9760"
-   sodipodi:docname="comotion-sjn-transparent-1.svg"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="hackeriet_logo.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.1"
    inkscape:export-filename="/home/sjn/Dropbox/Hackeriet/Logos/comotion-sjn-reclaim-5-179x179.png"
    inkscape:export-xdpi="161.10001"
    inkscape:export-ydpi="161.10001"
    style="enable-background:new">
+  <title
+     id="title4146">Hackeriet Logo</title>
   <defs
      id="defs3" />
   <sodipodi:namedview
@@ -32,14 +34,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.6897857"
-     inkscape:cx="60.086268"
-     inkscape:cy="43.232181"
+     inkscape:cx="11.469974"
+     inkscape:cy="42.805722"
      inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1280"
-     inkscape:window-height="776"
+     inkscape:window-height="677"
      inkscape:window-x="0"
      inkscape:window-y="24"
      showguides="false"
@@ -59,13 +61,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>Hackeriet Logo</dc:title>
         <dc:creator>
           <cc:Agent>
-            <dc:title>Jakub Steiner</dc:title>
+            <dc:title>Atluxity</dc:title>
           </cc:Agent>
         </dc:creator>
-        <dc:source>http://jimmac.musichall.cz/</dc:source>
+        <dc:source>http://hackeriet.no/</dc:source>
         <dc:subject>
           <rdf:Bag>
             <rdf:li>system</rdf:li>
@@ -77,16 +79,36 @@
           </rdf:Bag>
         </dc:subject>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+           rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/" />
+        <dc:date>2011</dc:date>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Hackeriet</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Hackeriet</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Atluxity, Comotion, Sjn</dc:title>
+          </cc:Agent>
+        </dc:contributor>
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+         rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/">
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:permits
-           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
       </cc:License>
     </rdf:RDF>
   </metadata>
